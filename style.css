@@ -1,0 +1,55 @@
+/* Body Design */
+body {
+  background-color: #f9f9f9; /* Light grey background */
+  font-family: 'Arial', sans-serif; /* Font family */
+  color: #333; /* Dark grey text color */
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+/* Header Design */
+header {
+  background-color: #4285f4; /* Blue header background */
+  padding: 20px;
+  text-align: center;
+}
+
+header h1, header h2 {
+  font-family: 'Arial', sans-serif; /* Font family for headers */
+  color: #fff; /* White text color */
+}
+
+/* Main Content Design */
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 40px;
+}
+
+section h3 {
+  color: #4285f4; /* Blue header color for sections */
+}
+
+section p {
+  color: #666; /* Dark grey text color for paragraphs */
+}
+
+section ul {
+  list-style-type: none; /* Remove default bullet points */
+  padding-left: 0; /* Remove default padding */
+}
+
+section ul li {
+  margin-bottom: 10px;
+}
+
+/* Footer Design */
+footer {
+  background-color: #4285f4; /* Blue footer background */
+  padding: 10px;
+  text-align: center;
+  color: #fff; /* White text color */
+}
+
